@@ -61,7 +61,7 @@ namespace TesteAmbiente
                             msg = false;
                         }
                     });
-                };
+                }; 
                 init = true;
             }
             Codigo = string.Empty;
